@@ -1,0 +1,14 @@
+a {
+    display: inline-block;
+    color: greenyellow;
+    background-color: grey;
+
+}
+
+/* 
+* + *  twoje reguły lobotomized owl notation
+
+*/
+a + a {
+    margin-left: 1rem;
+}
